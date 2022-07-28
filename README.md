@@ -106,7 +106,7 @@
 
 ```json
 URL : /
-Method : Post or Get
+Method : Post or Get or Put
 Body : Json {}
 ```
 
