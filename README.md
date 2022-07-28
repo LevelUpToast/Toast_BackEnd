@@ -72,7 +72,7 @@
         
         ex) commit message example
         
-        `refactor : (LoginService) : id, pw matching system change`
+        `refactor (LoginService) : id, pw matching system change`
         
 
 <br>
